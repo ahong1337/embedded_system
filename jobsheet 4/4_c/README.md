@@ -37,6 +37,10 @@
    
   ![Alt text](<../../src/4_c/4. Dashboard Node-RED.jpeg>)
 
+5. Tabel database MySQL
+   
+  ![Alt text](<../../src/4_c/5. Tabel database MySQL.jpeg>)
+
 ### Penjelasan Kode
 
   ![Alt text](<../../src/4_c/Penjelasan Kode.jpeg>)
