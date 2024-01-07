@@ -24,3 +24,6 @@ Alat dan bahan yang digunakan dalam jobsheet ini, antara lain:
 2. Transmisi Data Menggunakan Protokol HTTP
 3. Transmisi Data Menggunakan Protokol MQTT
 4. Akuisi Data dan Kendali Perangkat IoT Menggunakan Protokol MQTT
+
+> [!NOTE]  
+> _Buka folder subjob percobaan untuk melihat laporan percobaan_
